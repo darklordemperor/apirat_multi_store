@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "286126440029",
+    "project_id": "apirat-multi-store",
+    "storage_bucket": "apirat-multi-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:286126440029:android:9f911eb05da6fe0b8ad7b4",
+        "android_client_info": {
+          "package_name": "com.darklordemperor.apirat_multi_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "286126440029-8vb51ej3gqmp40lmkpe1eeuo6iia6jnf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.darklordemperor.apirat_multi_store",
+            "certificate_hash": "da77fa1a9794ce1ab03ad99990cf22562d5fa4c5"
+          }
+        },
+        {
+          "client_id": "286126440029-djhs351bhl43jt6i39ou3ta541v56j79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEsSfQIoi7URuW0OO8-jleDpN4avU99Xc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "286126440029-djhs351bhl43jt6i39ou3ta541v56j79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
